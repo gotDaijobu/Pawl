@@ -1,6 +1,6 @@
 {
-    "name": "ratchet/pawl"
-  , "description": "Asynchronous WebSocket client"
+    "name": "got-daijobu/pawl"
+  , "description": "Asynchronous WebSocket client - Fixed for newer versions of react/promise"
   , "keywords": ["WebSocket", "client", "Ratchet", "async", "websocket client"]
   , "license": "MIT"
   , "autoload": {
