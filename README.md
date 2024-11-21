@@ -5,6 +5,10 @@
 
 An asynchronous WebSocket client in PHP
 
+## Changes
+
+This version fixes an issue where React\Promise\RejectedPromise is not found as this classes has been moved to React\Promise\Internal\RejectedPromise.
+
 #### Install via composer:
     composer require ratchet/pawl
 
